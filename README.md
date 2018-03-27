@@ -1,7 +1,7 @@
 # test-task1
 
-1. run `npm install`
-2. run `npm start`
+1. Run `npm install`
+2. Run `npm start`
 
 Endpoints on `http://localhost:3000/`
 
